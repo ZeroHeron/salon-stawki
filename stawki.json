@@ -1,0 +1,44 @@
+{
+  "format": 1,
+  "numer": 1,
+  "wydano": "2026-10-22",
+  "znaneDo": "2027-12",
+  "zestawy": [
+    {
+      "od": "2026-01",
+      "uwagi": "Płaca minimalna 2026: 4806 zł. Składki i PIT bez zmian od lat; wypadkowa 1,67% dla płatnika do 9 osób.",
+      "placaMinimalna": "4806.00",
+      "emerytalnaPracownik": "9.76",
+      "emerytalnaPracodawca": "9.76",
+      "rentowaPracownik": "1.50",
+      "rentowaPracodawca": "6.50",
+      "chorobowa": "2.45",
+      "wypadkowa": "1.67",
+      "funduszPracy": "2.45",
+      "fgsp": "0.10",
+      "zdrowotna": "9.00",
+      "kosztyUzyskaniaPrzychodu": "250.00",
+      "stawkaPit": "12.00",
+      "kwotaZmniejszajacaMiesiecznie": "300.00",
+      "limitZwolnieniaVat": "240000.00"
+    },
+    {
+      "od": "2027-01",
+      "uwagi": "Płaca minimalna 2027: 4950 zł (rozporządzenie RM z 14.09.2026). Wypadkową sprawdzić w kwietniu 2027.",
+      "placaMinimalna": "4950.00",
+      "emerytalnaPracownik": "9.76",
+      "emerytalnaPracodawca": "9.76",
+      "rentowaPracownik": "1.50",
+      "rentowaPracodawca": "6.50",
+      "chorobowa": "2.45",
+      "wypadkowa": "1.67",
+      "funduszPracy": "2.45",
+      "fgsp": "0.10",
+      "zdrowotna": "9.00",
+      "kosztyUzyskaniaPrzychodu": "250.00",
+      "stawkaPit": "12.00",
+      "kwotaZmniejszajacaMiesiecznie": "300.00",
+      "limitZwolnieniaVat": "240000.00"
+    }
+  ]
+}
