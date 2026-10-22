@@ -1,0 +1,3 @@
+# Podpis liczony jest z dokładnych bajtów pliku: git nie może zmieniać końców linii.
+stawki.json -text
+stawki.json.podpis binary
